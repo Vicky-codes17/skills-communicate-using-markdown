@@ -20,3 +20,7 @@ var myVar = "Hello, world!";
 def hello_world():
     print("Hello, GitHub!")
 ```
+- [x] Add headers  
+- [x] Add an image  
+- [x] Add a code example  
+- [ ] Merge my pull request  
