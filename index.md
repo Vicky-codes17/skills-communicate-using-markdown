@@ -17,3 +17,9 @@ My Github Profile username Vicky-codes17
 python
 print("Hello, Vicky-codes17"
 ```
+
+# Make a task list
+- [x] Add Headers in Markdown
+- [x] Add an Image
+- [x] Add CodeBlocks in the Markdown
+- [x] Add Task Checkbox List
